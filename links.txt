@@ -1,0 +1,17 @@
+links.txt
+Created Thu May 17 15:37:22 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+3ware related links
+
+
+Links
+=====
+Broadcom controllers
+https://www.broadcom.com/support/knowledgebase/1211161496893/megaraid-3ware-and-hba-support-for-various-raid-levels-and-jbod-
+
+LSI Corporation
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/LSI_Corporation
+
